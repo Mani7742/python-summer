@@ -4,4 +4,7 @@ idx = 0
 while idx < len(tuple):
     if tuple[idx] == x:
         print("Found at index", idx)
+        break
+    else:
+        print("Finding...")    
     idx = idx + 1    
