@@ -1,0 +1,17 @@
+**Designing a UserProfile Class for a Social Media Platform**
+
+You are working on developing a Social Media Platform, and your task is to design a `UserProfile` class to represent users on the platform. The class should encapsulate `username`, `email`, and `number of posts` features.
+
+As an object-oriented developer, you are required to provide the solution to the given question:
+
+1. Design the `UserProfile` class based on the requirements provided. Implement the class with appropriate instance variables and access modifiers.
+
+2. Provide a parametrized constructor that will initialize the `UserProfile` object with the provided arguments.
+
+3. Provide appropriate code to handle the automatic generation of the number of posts.
+
+4. Write a constructor that will generate a deep copy of the existing `UserProfile` object.
+
+5. Implement a proper method to add posts to the user profile.
+
+Additionally, create a Main Program where all the above features would be utilized.
